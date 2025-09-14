@@ -16,20 +16,20 @@
     -   [ ] CSS files have as many rules as desired. Even most webpages commonly used could have several hundres of CSS rules for it.
 
 -   [ ] CSS Selectors are used to determine which CSS elements are styled
--   [ ] The most common type of selectors is the following:
-    -   [ ] Type Selectors:
-        -   [ ] Selects all the matching elements on the webpage for styling
-    -   [ ] For instance:
-        -   [ ] <img src="img/a-type-selector.png" alt="">
--   [ ] HTML elements can be selected by their HTML attributes
-    -   [ ] For instance:
-        -   [ ] <img src="img/b-class-id-select-element.png" alt="">
-    -   [ ] Selecing an element by "class" is done by using a period ".", and can be used to style multiple elements with a matching "class" attribute
-    -   [ ] Selecting an element by "id" is done by using a hashtag "#", and is used to style a single element with a matching "id" attribute.
+    -   [ ] The most common type of selectors is the following:
+        -   [ ] Type Selectors:
+            -   [ ] Selects all the matching elements on the webpage for styling
+        -   [ ] For instance:
+            -   [ ] <img src="img/a-type-selector.png" alt="">
+    -   [ ] HTML elements can be selected by their HTML attributes
+        -   [ ] For instance:
+            -   [ ] <img src="img/b-class-id-select-element.png" alt="">
+        -   [ ] Selecing an element by "class" is done by using a period ".", and can be used to style multiple elements with a matching "class" attribute
+        -   [ ] Selecting an element by "id" is done by using a hashtag "#", and is used to style a single element with a matching "id" attribute.
 
--   [ ] Instead of selecting every element with a matching class only "div" elements that either have a class of "class-name" or an "id" of "id-name".
-    -   [ ] This selection is known as "targeting"
-    -   [ ] <img src="img/c-speciffic-class-id.png" alt="">
+    -   [ ] Instead of selecting every element with a matching class only "div" elements that either have a class of "class-name" or an "id" of "id-name".
+        -   [ ] This selection is known as "targeting"
+        -   [ ] <img src="img/c-speciffic-class-id.png" alt="">
 
 -   [ ] The &lt;br&gt; element:
            -  [ ] Creates a new line in your code and forces whatever comes after to start on a new line
