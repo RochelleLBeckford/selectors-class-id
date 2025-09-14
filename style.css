@@ -1,0 +1,81 @@
+/* & Add font to the entire webpage */
+* {
+    font-family: "Handlee";
+}
+
+body {
+    /* ~ Colors of my VS Code Theme */
+    background-color: #393a55;
+    color: #ff9eb5;
+}
+
+/* & This will style the <h1> element */
+h1 {
+    background-color: #ff9eb5;
+    color: whitesmoke;
+    text-align: center;
+}
+
+/* & This will style the <h2> element */
+h2 {
+    /* background-color: #ff9eb5; */
+    color: #ff9eb5;
+    text-align: center;
+
+}
+
+/* & This will style the <hr> (horizontal line/dividing line) element */
+hr {
+    width: 40%;
+    background-color: #ff9eb5;
+    height: 10px;
+    border: none;
+}
+
+/* & This will style the <li> element bullet to an open circle */
+.list-format {
+    list-style: circle;
+}
+
+/* & This will style the div element */
+div {
+    border: 4px solid;
+    text-align: center;
+}
+
+/* & This will style all the elements with the line class */
+.line {
+    width: 50%;
+    margin: auto;
+    padding: 10px 0;
+    text-decoration: underline;
+    text-underline-offset: 6px;
+    text-decoration-style: wavy;
+}
+
+/* & These id's will style a specific element */
+/* ~ roses id */
+#roses {
+    background-color: red;
+    color: whitesmoke;
+}
+
+/* ~ violets id */
+#violets {
+    background-color: violet;
+    color: whitesmoke;
+}
+
+/* ~ sugar id */
+#sugar {
+    background-color: beige;
+}
+
+/* & Styling for the Footer section of the webpage */
+.footer-container {
+    width: 100%;
+    /* border: 4px solid; */
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}

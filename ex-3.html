@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- & Title of the Webpage -->
+    <title>Selectors Pt. 1</title>
+    <!-- & Link to the CSS Style Sheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Selectors Pt. 1</h1>
+    <!-- & Main Element
+    ~ This is where the main information of the webpage will go
+    -->
+    <main>
+        <!-- & Section Element
+        ~ This groups together pieces of similar information
+        ~ This section describes what Selectors are
+        -->
+        <section>
+            <h2>What are Selectors?</h2>
+            <hr>
+            <ul>
+                <li class="list-format">
+                    Selectors are used to determine which HTML elements(s) are styled
+                </li>
+
+                <li class="list-format">
+                    The most common type of selector is the "type selector", which selects all matching elements on the webpage for styling.
+                </li>
+
+                <li class="list-format">
+                    For instance:
+                    <ul>
+                        <li>
+                            <img src="img/a-type-selector.png" alt="Type Selector Image">
+                        </li>
+
+                        <li class="list-format">
+                            As shown from the image above, the comnents can be replaced with the desired decorations to be applied to the &lt;div&gt; element in the linked HTML file.
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+
+        <!-- ~ This section will describe what the Class and Id Selectors -->
+        <section>
+            <h2>Class and Id Selectors</h2>
+            <hr>
+
+            <ul>
+                <li class="list-format">
+                    HTML elements can be selected by their HTML attributes.
+                </li>
+
+                <li class="list-format">
+                    An example that follows selects elements with a "class" of "class-name" or an "id" of "id-name":
+                    <ul>
+                        <li>
+                            <img src="img/b-class-id-select-element.png" alt="Class and Id Used to Select Elements">
+                        </li>
+
+                        <li class="list-format">
+                            Selecting an element by "class" is done using a period ".", and used to style multiple elementd with a matching "class" attribute.
+                        </li>
+
+                        <li class="list-format">
+                            Selecting an element by "id" is done by using a hashtag "#", and is used to style single element with a matching "id" attribute.
+                        </li>
+
+                        <br>
+                        <br>
+                        <li>
+                            There is a way to be even more specific:
+                        </li>
+                        <li class="list-format">
+                            <img src="img/c-speciffic-class-id.png" alt="More specific Element along with a Class or Id Used">
+                        </li>
+
+                        <li class="list-format">
+                            Instead of selecting every element with a matching class only "div" elements that either have a class of "class-name" or an "id" of "id-name".
+                        </li>
+                        <li>
+                            This kind of selection is also known as "targeting".
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
