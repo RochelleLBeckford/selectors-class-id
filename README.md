@@ -9,7 +9,7 @@
     -   [ ] It is absolutely beautiful to see a webpage come to life and become even more beautiful.
 
 -   [ ] Syntax for these rules looks likee this:
-    -   [ ] <img src="img/a-rule-syntax-diagram.png" width="650" alt="How the Syntax rules looks for CSS">
+    -   [ ] <img src="img/d-rule-syntax-diagram.png" width="650" alt="How the Syntax rules looks for CSS">
 -   [ ] Every rule begins with a selector then followed by curly brackets { }.
     -   [ ] Inside the curly brackets, declarations are made of property:value pairs seperated by a colon.
     -   [ ] Each line will end with a semicolon ; .
