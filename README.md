@@ -32,7 +32,7 @@
         -   [ ] <img src="img/c-speciffic-class-id.png" alt="">
 
 -   [ ] The &lt;br&gt; element:
-           -  [ ] Creates a new line in your code and forces whatever comes after to start on a new line
+    -   [ ] Creates a new line in your code and forces whatever comes after to start on a new line
 -   [ ] The &lt;hr&gt; element:
     -   [ ] Adds a horizontal line or dividing line across the webpage
     -   [ ] Used to separate sections or different topics on a webpage
